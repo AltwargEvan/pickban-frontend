@@ -1,0 +1,14 @@
+$theme-colors: (
+    "primary": #95a8b9,
+    "secondary": #215097,
+    "info": #618B25,
+    "danger": #ff0000,
+    "text-primary": #95A8B9,
+    "teamA": #215097,
+    "teamB": #b20d30,
+    "spectator": hsl(208, 0%, 35%),
+);
+
+@import "~bootstrap/scss/bootstrap";
+// USEFUL INFO FOR STYLES
+// https://www.pluralsight.com/guides/how-to-set-up-a-react-bootstrap-app
